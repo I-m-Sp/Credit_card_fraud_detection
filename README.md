@@ -9,3 +9,7 @@ Both RandomForest and XGBoost were used as they are ensemble learning methods wh
 On top of that, stacking ensemble learning was used on both the above mentioned models.
 Accuracy achieved was 98%.
 Recall Achieved was 0.82.
+
+## Dataset
+You can download the datset from below link:
+[Download Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection?resource=download)
